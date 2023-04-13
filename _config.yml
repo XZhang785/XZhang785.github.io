@@ -102,4 +102,6 @@ theme: lite
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:XZhang785/XZhang785.github.io.git
+  branch: gh-pages
